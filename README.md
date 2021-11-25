@@ -1,6 +1,7 @@
 # exam-fastapi
 
-My first api
+My first api  
+The users base are a fake base.
 
 ## Instruction to launch the API
 
